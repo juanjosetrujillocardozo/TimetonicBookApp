@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TimetonicBookApp</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="login_error">Error en el inicio de sesión</string>
+    <string name="network_error">Error de red</string>
+    <string name="fetch_books_error">Error al obtener la lista de libros</string>
+</resources>
